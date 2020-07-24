@@ -29,5 +29,5 @@ int main()
          }
        
        int maxsofar =  Kadane(v1 , n )  ; 
-        cout << maxsofar << endl ; 
+        cout << maxsofar << endl  ; 
 } }
